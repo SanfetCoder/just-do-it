@@ -1,0 +1,246 @@
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 330px;
+  height: 72px;
+  object-fit: cover;
+}
+.collaborations {
+  position: absolute;
+  top: 36px;
+  left: 516px;
+}
+.communities,
+.frame,
+.marketplace {
+  position: absolute;
+  top: 36px;
+  left: 645px;
+}
+.frame,
+.marketplace {
+  left: 756px;
+}
+.frame {
+  top: 9px;
+  left: 9px;
+  width: 827px;
+  height: 72px;
+  overflow: hidden;
+}
+.imageRemovebgPreview121 {
+  position: absolute;
+  top: 169.37px;
+  left: 98.51px;
+  width: 257.64px;
+  height: 177.94px;
+  object-fit: cover;
+}
+.base1Icon,
+.eye1Icon,
+.face1Icon,
+.shirtPafe1 {
+  position: absolute;
+  top: 0;
+  left: 76.72px;
+  width: 301.21px;
+  height: 258.34px;
+  object-fit: cover;
+}
+.base1Icon,
+.eye1Icon,
+.shirtPafe1 {
+  top: 61.1px;
+  left: 107.98px;
+  width: 212.17px;
+  height: 170.44px;
+}
+.base1Icon,
+.shirtPafe1 {
+  top: 370.89px;
+  left: 0;
+  width: 448.03px;
+  height: 76.11px;
+}
+.shirtPafe1 {
+  top: 212.24px;
+  left: 137.35px;
+  width: 173.34px;
+  height: 189.73px;
+}
+.imageRemovebgPreview121Parent {
+  position: absolute;
+  top: 316px;
+  left: 646px;
+  width: 448.03px;
+  height: 447px;
+}
+.copyOfJustapaperPitch11,
+.copyOfJustapaperPitch3 {
+  position: absolute;
+  top: 303px;
+  left: 1330px;
+  width: 318.22px;
+  height: 472px;
+  object-fit: cover;
+}
+.copyOfJustapaperPitch3 {
+  top: 364px;
+  left: 1353px;
+  width: 97px;
+  height: 63px;
+}
+.hair1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 347px;
+  left: 1489px;
+  width: 123px;
+  height: 85px;
+  background-image: url(/public/hair1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.copyOfJustapaperPitch10 {
+  position: absolute;
+  top: 339px;
+  left: 128px;
+  width: 165px;
+  height: 322px;
+  object-fit: cover;
+}
+.copyOfJustapaperPitch111,
+.copyOfJustapaperPitch9 {
+  position: absolute;
+  top: 238px;
+  left: 63px;
+  width: 412px;
+  height: 775px;
+  object-fit: cover;
+}
+.copyOfJustapaperPitch111 {
+  top: 284px;
+  left: 128px;
+  width: 269px;
+  height: 399px;
+}
+.copyOfJustapaperPitch14,
+.copyOfJustapaperPitch15,
+.copyOfJustapaperPitch8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 784px;
+  left: 106px;
+  width: 327px;
+  height: 44px;
+  background-image: url(/public/copyofjustapaperpitch81@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.copyOfJustapaperPitch14,
+.copyOfJustapaperPitch15 {
+  top: 846px;
+  height: 43px;
+  background-image: url(/public/copyofjustapaperpitch141@2x.png);
+}
+.copyOfJustapaperPitch15 {
+  top: 907px;
+  height: 45px;
+  background-image: url(/public/copyofjustapaperpitch151@2x.png);
+}
+.copyOfJustapaperPitch13,
+.copyOfJustapaperPitch16 {
+  position: absolute;
+  top: 969px;
+  left: 106px;
+  width: 327px;
+  height: 44px;
+}
+.copyOfJustapaperPitch13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 732px;
+  height: 43px;
+  background-image: url(/public/copyofjustapaperpitch131@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.copyOfJustapaperPitch12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 16px;
+  height: 26px;
+  object-fit: cover;
+}
+.copyOfJustapaperPitch12Wrapper {
+  position: absolute;
+  top: 444px;
+  left: 158px;
+  width: 16px;
+  height: 26px;
+}
+.imageRemovebgPreview221 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 481px;
+  left: 1353px;
+  width: 120px;
+  height: 68px;
+  background-image: url(/public/imageremovebgpreview221@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.copyOfJustapaperPitch112 {
+  position: absolute;
+  top: 342px;
+  left: 177px;
+  width: 177px;
+  height: 263px;
+  object-fit: cover;
+}
+.copyOfJustapaperPitch121 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 442px;
+  left: 364px;
+  width: 19px;
+  height: 31px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  background-image: url(/public/copyofjustapaperpitch121@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.homepage {
+  background-color: #fff;
+  width: 1917px;
+  height: 1383px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
